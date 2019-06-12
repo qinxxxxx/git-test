@@ -7,4 +7,8 @@ public class Test {
         System.out.println("我是你爸爸");
 
     }
+    public  void  test(){
+        int i=0;
+        i+=10;
+    }
 }
